@@ -13,4 +13,4 @@ blocks:
       jobs:
         - name: 'Job #1'
           commands:
-            - echo "job 1"
+            - 'echo "job 1 sto eseguedo il job 1, guardami ti pregooooo"'
