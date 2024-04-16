@@ -6,7 +6,7 @@ agent:
     os_image: ubuntu2004
   containers:
     - name: main
-      image: 'registry.gitlab.com/alessandrodesp/nuovo-progetto-testando-gitlab/testo-git:0.0.1'
+      image: 'postgres:13.10-alpine'
 blocks:
   - name: 'Block #1'
     task:
